@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Shuai's Homepage"
 title_separator          : "-"
 name                     : &name "Shuai Han"
-# description              : &description "personal description"
+description              : &description "(Multi-agent) Reinforcement Learning"
 url                      : https://shan0126.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shan0126/shan0126.github.io"
@@ -27,7 +27,7 @@ author:
   # bio              : "Short biography for the left-hand sidebar"
   location         : "The Netherlands"
   employer         : "Utrecht University"
-  uri              : # URL
+  uri              : # https://www.uu.nl/staff/SHan
   email            : "s.han@uu.nl" 
 
   # Academic websites
