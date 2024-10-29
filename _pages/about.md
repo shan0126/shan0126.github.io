@@ -16,4 +16,4 @@ Publications
 
 For more info
 ------
-Please feel free to email me or wechat me!
+Please feel free to email me!
